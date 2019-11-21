@@ -1,7 +1,3 @@
-// Evan Knapke
-// cs419
-// assign3a
-
 import java.io.*;
 import java.net.*;
 import java.util.*;
